@@ -489,7 +489,7 @@ nav{
 }
 
 
-
+/* for MOBILE VIEW (IPhone SE) */
 @media (max-width: 375px) {
 
     html{
