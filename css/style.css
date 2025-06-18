@@ -60,22 +60,6 @@ body{
     margin: 0 auto;
     margin-bottom: 2rem;
 }
-/* .row{
-    display: flex;
-    flex-wrap: wrap;
-    margin: 0 -15px;
-}
-.col{
-    padding: 0 15px;
-}
-.col-25{
-    width: 25%;
-}
-.col-50{
-    width: 50%;
-} */
-/* common element */
-
 a{
     display: inline-block;
 }
